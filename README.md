@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laboratorio per il corso di Algoritmi e Strutture Dati: regole d'esame, indicazioni generali e suggerimenti, consegne per gli esercizi
 
 # Regole d'esame
@@ -49,6 +50,8 @@ Il file Git.md contiene un esempio di come usare Git per lo sviluppo degli eserc
 
 Si rammenta che la valutazione del progetto di laboratorio considererà anche l'uso adeguato di git da parte di ciascun membro del gruppo.
 
+=======
+>>>>>>> a3360ee0611023da880c9ec7fa348c8270068d91
 ## Linguaggio in cui sviluppare il laboratorio
 
 Gli esercizi vanno implementati utilizzando il linguaggio C o Java come precisato di seguito:
